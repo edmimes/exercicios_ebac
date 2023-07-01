@@ -1,4 +1,4 @@
-            #lenguage: pt
+e            #lenguage: pt
             Funcionalidade: Finaliza Compra
             Como cliente da EBAC-SHOP
             Quero fazer concluir meu cadastro
@@ -74,7 +74,7 @@
 
 
             Esquema do Cenário: Erro de login
-            Quando digito <> ou <> invalido
+            Quando digito <email> ou <senha> invalido
             Então Deve mostrar a mensagem "Usuário ou senha inválidos"
 
             Exemplos:
