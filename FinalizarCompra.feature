@@ -28,7 +28,7 @@
             Então Cadastro é finalizado com sucesso.
 
             #------------------------------------------------------------------------------------
-            Cenário: Configuração de Produto
+            Funcionalidade: Configuração de Produto
             Como cliente da EBAC-SHOP
             Quero configurar meu produto de acordo com meu tamanho e gosto
             e escolher a quantidade
